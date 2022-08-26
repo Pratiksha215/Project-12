@@ -1,24 +1,27 @@
-# Assignment 1
+# Business Landing page
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+## Concepts and Learnings
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--12-lightgrey)
+-  complex footer section
 
-![name](https://img.shields.io/badge/)
 
-## Project 12 [Live Link](https://live-proj-12.netlify.app)
+## Landing Page Snapshot
+![Desktop](./screenshots/project-12.png)
 
--   Skills Gained in this project
-    -   Learned to create complex footer section.
 
----
+
+## Live
+
+Please check the Live Demo of the Designed Landing Page using the Below Link:-)
+
+![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
+
+[Live-Demo](https://business-landing-pg.netlify.app)
 
 ## Time taken to finish this project
 
--   5 hour taken to complete it.
+⏰-   4.5 hour taken to complete it.
 
-#### Screenshot
+## Designed By Patil Pratiksha
 
-![Desktop](./screenshots/project-12.png)
+
